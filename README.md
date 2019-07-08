@@ -2,10 +2,9 @@
 Basic implementation for Kafka producer & consumer.
 
 # Technologies:
-Spring Boot
-Spring Kafka
-Apache Kafka
-Zookeeper
+1. Spring Boot
+2. Spring Kafka
+3. Apache Kafka
 
 # How To Run:
 1. Run kafka-producer.
