@@ -1,5 +1,6 @@
 # Microservice Kafka Demo
 Basic implementation for Kafka producer & consumer.
+Consumer is as a request-reply application.
 
 # Technologies:
 1. Spring Boot
